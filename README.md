@@ -192,5 +192,4 @@ Reklam platformu verilerinin birleştirildiği akışta aşağıdaki metrikler h
 ## 👤 Geliştirici
 
 **Ege Gürel**
-Digital Marketing Intern — Yapı Kredi | Ağustos 2025
-[linkedin.com/in/ege-gürel](https://linkedin.com/in/ege-gürel)
+
